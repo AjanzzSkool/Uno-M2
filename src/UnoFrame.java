@@ -2,7 +2,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Main GUI frame for the Uno game. Handles all visual display and updates from the model.
+ * @author Ajan Balaganesh Danilo Bukvic Aydan Eng Aws Ali
+ * @version 1.0
+ */
 public class UnoFrame extends JFrame implements UnoView {
     // GUI components
     private final JLabel labelTopCard = new JLabel("Top: -", SwingConstants.CENTER);

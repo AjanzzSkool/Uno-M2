@@ -1,6 +1,10 @@
 import java.awt.Color;
 import java.util.List;
-
+/**
+ * View interface for Uno; defines how the model communicates visual/game state updates to any UI.
+ * @author Danilo Bukvic Ajan Balaganesh Aydan Eng Aws Ali
+ * @version 1.0
+ */
 public interface UnoView {
     // Push state to the view directly
     void handleUpdate(
