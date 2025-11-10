@@ -1,0 +1,4 @@
+public enum UnoRank {
+    ZERO, ONE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, SKIP, REVERSE, DRAW_TWO, WILD
+}
+
