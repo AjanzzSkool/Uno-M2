@@ -1,3 +1,8 @@
+/**
+ * Represents a single Uno card with a color and rank.
+ * @author Ajan Balaganesh Danilo Bukvic Aydan Eng Aws Ali
+ * @version 1.0
+ */
 public class UnoCard {
     public final UnoColor color;
     public final UnoRank rank;
